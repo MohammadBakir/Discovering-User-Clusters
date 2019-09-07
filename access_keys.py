@@ -1,4 +1,11 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[ ]:
+
+
 ACCESS_TOKEN = "1159517191550541825-TkJWQVuIIswevN3lyjFpSC6Vt8Ln4j"
 ACCESS_SECRET = "pR3c2ud3mua4CaA6gTcrrcbL6Q4cKud2NkrbvNZuf78X"
 CONSUMER_KEY = "MN6kBl392GXgWEI9g67zrPFp8"
 CONSUMER_SECRET = "gecAXXIdPRf0iOvmssxytiWfnp0ao9OgQGwfQZJkB5L5Fs4NR"
+
