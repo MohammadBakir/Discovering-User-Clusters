@@ -1,4 +1,4 @@
 # Don't track the following content
-.ipynb_checkpoints
-.yml
-.py
+*.ipynb_checkpoints
+*.yml
+*.py
